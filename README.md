@@ -1,1 +1,1 @@
-# Basic-Brute-Force-Code
+The code implements a basic brute-force password cracking algorithm using recursive guess generation. It demonstrates the process of exhaustively trying all possible combinations until the correct password is found.
